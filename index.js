@@ -1,6 +1,6 @@
 const element = (
   <div>
-    <h1 className="greeting">Hello sreekanth </h1>
+    <h1 className="greeting">Hello Rajeshwari </h1>
     <p> Good to see you </p>
   </div>
 );
